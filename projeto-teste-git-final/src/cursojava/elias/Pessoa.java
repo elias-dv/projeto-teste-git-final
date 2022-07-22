@@ -1,5 +1,7 @@
 package cursojava.elias;
 
+import java.util.Date;
+
 public class Pessoa {
 
 	private String nome;
@@ -8,16 +10,16 @@ public class Pessoa {
 	
 	private int idade;
 	
-	private Date dataNascimento;
+	private Date datanasciment;
 	
 	
-
-	public Date getDataNascimento() {
-		return dataNascimento;
+	
+	public Date getDatanasciment() {
+		return datanasciment;
 	}
 
-	public void setDataNascimento(Date dataNascimento) {
-		this.dataNascimento = dataNascimento;
+	public void setDatanasciment(Date datanasciment) {
+		this.datanasciment = datanasciment;
 	}
 
 	public int getIdade() {
