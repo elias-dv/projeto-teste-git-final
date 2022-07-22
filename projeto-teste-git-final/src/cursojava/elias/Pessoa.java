@@ -12,7 +12,6 @@ public class Pessoa {
 	
 	private Date datanasciment;
 	
-	private Date dataNasciment2;
 	
 	public Date getDatanasciment() {
 		return datanasciment;
@@ -44,8 +43,5 @@ public class Pessoa {
 
 	public void setSobrenome(String sobrenome) {
 		this.sobrenome = sobrenome;
-	
 	}
-
 }
-	   
