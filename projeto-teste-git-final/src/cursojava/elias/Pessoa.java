@@ -13,7 +13,6 @@ public class Pessoa {
 	private Date datanasciment;
 	
 	
-	
 	public Date getDatanasciment() {
 		return datanasciment;
 	}
