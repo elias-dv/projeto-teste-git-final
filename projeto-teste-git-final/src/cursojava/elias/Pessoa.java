@@ -11,8 +11,8 @@ public class Pessoa {
 	private int idade;
 	
 	private Date datanasciment;
-	
-	
+
+
 	public Date getDatanasciment() {
 		return datanasciment;
 	}
